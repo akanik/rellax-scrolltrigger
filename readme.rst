@@ -22,7 +22,7 @@ With those installed, you can then set the project up using your terminal:
 We've added two libraries: 
 
 1. `Rellax <https://github.com/dixonandmoe/rellax>`_
-2. `ScrollTrigger<https://github.com/terwanerik/ScrollTrigger>`_
+2. `ScrollTrigger <https://github.com/terwanerik/ScrollTrigger>`_
 
 See those github pages for usage. But all code should go in the ``src/js/main.js`` file.
 
